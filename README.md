@@ -1,4 +1,4 @@
-Quadcopter Dynamic Modeling and Simulation (Quad-Sim) v1.00
+Quadcopter Dynamic Modeling and Simulation (Quad-Sim) v1.1
 =======
 Overview
 =
